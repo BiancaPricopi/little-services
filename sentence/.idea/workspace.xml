@@ -4,22 +4,85 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1dd90bc9-e45a-43c7-aedb-0271cf59cd43" name="Changes" comment="" />
+    <list default="true" id="0890f477-dedf-4b8d-bb39-02afa4b78a38" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../riddle/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../riddle/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/sentence/SentenceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/sentence/SentenceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/sentence/controller/SentenceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/sentence/controller/SentenceController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/sentence/SentenceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zuul-gateway/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../zuul-gateway/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zuul-gateway/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../zuul-gateway/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zuul-gateway/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../zuul-gateway/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zuul-gateway/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../zuul-gateway/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zuul-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zuul-gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zuul-gateway/src/main/java/com/example/zuulgateway/ZuulGatewayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zuul-gateway/src/main/java/com/example/zuulgateway/ZuulGatewayApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zuul-gateway/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../zuul-gateway/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zuul-gateway/src/test/java/com/example/zuulgateway/ZuulGatewayApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zuul-gateway/src/test/java/com/example/zuulgateway/ZuulGatewayApplicationTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CDs5CenpZNhYZHhEOxPFxwNn8K" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",
     "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75"
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="SentenceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sentence" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.sentence.SentenceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0890f477-dedf-4b8d-bb39-02afa4b78a38" name="Changes" comment="" />
+      <created>1658348306562</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658348306562</updated>
+      <workItem from="1658348307820" duration="715000" />
+    </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
