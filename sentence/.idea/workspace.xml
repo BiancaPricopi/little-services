@@ -5,26 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0890f477-dedf-4b8d-bb39-02afa4b78a38" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../riddle/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../riddle/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../riddle/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../riddle/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/sentence/SentenceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/sentence/SentenceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/sentence/controller/SentenceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/sentence/controller/SentenceController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/sentence/SentenceApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../zuul-gateway/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../zuul-gateway/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../zuul-gateway/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../zuul-gateway/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../zuul-gateway/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../zuul-gateway/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../zuul-gateway/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../zuul-gateway/mvnw.cmd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../zuul-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zuul-gateway/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../zuul-gateway/src/main/java/com/example/zuulgateway/ZuulGatewayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zuul-gateway/src/main/java/com/example/zuulgateway/ZuulGatewayApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../zuul-gateway/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../zuul-gateway/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../zuul-gateway/src/test/java/com/example/zuulgateway/ZuulGatewayApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zuul-gateway/src/test/java/com/example/zuulgateway/ZuulGatewayApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,17 +35,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;d866f4a8ea8e6f9d0f456f54c26285c0&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="SentenceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="sentence" />
@@ -78,7 +65,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658348306562</updated>
-      <workItem from="1658348307820" duration="715000" />
+      <workItem from="1658348307820" duration="1895000" />
+      <workItem from="1658388062507" duration="2650000" />
+      <workItem from="1658480916366" duration="617000" />
+      <workItem from="1658729842135" duration="769000" />
     </task>
     <servers />
   </component>
